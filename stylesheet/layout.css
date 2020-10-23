@@ -1,0 +1,46 @@
+body {
+      font-family: Alegreya;
+      width: 1440px;
+      height: 100% auto;
+      display: block;
+      margin: 0 auto;
+      position: relative;
+      background: #5F1C34;
+      z-index: 1;
+	}
+
+/*	.section:nth-of-type(1) div {
+		width: 1440px;
+        height: 900px;
+	}*/
+
+    .descr {
+		width: 797px;
+		height: 204px;
+		margin-left: 321px;
+		margin-top: 157px;
+		margin-bottom: 160px;
+		font-size: 48px;
+		line-height: 65px;
+		text-align: center;
+
+		color: rgba(255, 255, 255, 0.8);
+    }
+
+    .Alegreya {
+		width: 1314px;
+		height: 343px;
+		margin-left: 63px;
+		margin-top:  150px;
+		font-size: 285px;
+		line-height: 388px;
+		text-align: center;
+
+		color: #FFFFFF
+    }
+
+    .img {
+    	margin-top: 100px;
+    }
+
+    
